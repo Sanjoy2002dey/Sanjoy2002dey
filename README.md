@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt ="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoy2002dey&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoy2002dey" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjoydey02" target="blank"><img src="https://img.shields.io/twitter/follow/sanjoydey02?logo=twitter&style=for-the-badge" alt="sanjoydey02" /></a> </p>
@@ -16,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjoydey02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjoydey02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjoy-dey-713b67228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjoy-dey-713b67228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjoy dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjoy dey" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjoydey02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjoydey02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user9871pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9871pv" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sanjoysanjoydey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sanjoysanjoydey/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sanjoysanjoydey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjoysanjoydey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjoy2002dey&show_icons=true&locale=en" alt="sanjoy2002dey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjoy2002dey&" alt="sanjoy2002dey" /></p>
+
 
 
 <!--
